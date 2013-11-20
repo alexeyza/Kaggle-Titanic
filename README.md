@@ -1,5 +1,5 @@
 #Kaggle Titanic Prediction Scripts
----
+
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg "Untergang der Titanic, conception by Willy Stöwer, 1912")  
 All rights to the image are reserved to [wikipedia](http://en.wikipedia.org/wiki/File:St%C3%B6wer_Titanic.jpg)  
 
