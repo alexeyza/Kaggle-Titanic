@@ -10,3 +10,6 @@ This repository includes my scripts for the Kaggle [Titanic](http://www.kaggle.c
 ##Instructions
 * The `tutorial` folder includes scripts based on the [Getting Started With Python](http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-python) guide at the Kaggle website.
 * In addition, you will need to create a `csv` directory and copy the data files in there ([download data csv files here](http://www.kaggle.com/c/titanic-gettingStarted/data)).
+
+##Suggestions
+I would appreciate any suggestions you may have regarding improving the scripts. My current best public score on Kaggle is 0.7799.
